@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPLearn</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="sing_out">SIGNOUT</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="welcome_text">Selamat Datang</string>
+</resources>
